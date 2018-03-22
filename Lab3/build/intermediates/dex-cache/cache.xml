@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\8e62d75e95f9b9e15657661b27a8b688c6d9090e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae3483fb7eb35016652f46d95eef3a1f8db7f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\7898fb70feaefd6f96263b4e9c6d29f37b7376db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40758ee61e8170cd7ecafd9df79b88ce7adefa6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\26f8bdaa6e2328665b84e903dfcd70c55c9f4d18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d3213f2b0fa812e64530baf4589c041359d42b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\58a2981c0d7675053c3fcc829ad379a3012c0658\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17bcc7a2253f437319da0668d5114dd0d5ee3219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b643e268b7e01b60dfa9acaf290e0279e1bc34cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\8d7bf7750cd23cc010b55b9429264f1b132e50e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_287bdd17956b1d9e9264711ed31f5e8e3f2a7079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\af5b46cf71a288e55d79924a559a9c898da1c91b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72f48cec61b7c51085788729f4ed57b72ed64f10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c076377a62095ba8284bacbb203feb8604db8eff">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a0b69e03bd21cafc50c884fa0ba0535b8bad569b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\a03712b5b5052f1533366c014ef598b7278d79a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3989ceb3b978870f0749afbcefc5551a3ae954c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\50b9ce3d788d574e87239bc974ff50269ab76c5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b19f535255fe61301ae4def3e390bcf35fa6a570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\40c6450f51ddd545ebb300a1b4e195ef81cf25ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df5561eca5846a9403c8f10461f355da8266004e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\51b679675444cd62942000d7b7560d31abbdfb5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a85459e66703c0c0c8bee40b007ff4db3b3ba37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_3973a9fe45306e5fc34a49cc54c7d28c86539fef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_c432520ab71ec9b6b3b0aad72ec831df298e202c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_92ae3e35f55baf91047a9d053f4da1db96a3903a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\41d2bf06940cccb475eb8a33d153ceb003ee858c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c9fef535e62f1cdff18da13754db534caa16b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cliff\.android\build-cache\28d8db625afebc62257989013969845f974ea81e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\cliff\AndroidStudioProjects\android-NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_638cac339c42b2db9e525471675d9a91691b179e\classes.dex" />
+    </item>
+
+</items>

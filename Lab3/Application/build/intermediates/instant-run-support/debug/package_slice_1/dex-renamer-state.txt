@@ -1,0 +1,4 @@
+#Thu Mar 22 13:24:23 HKT 2018
+base.0=/Users/zhenlin/Documents/Project/network/android-NetworkConnect/Application/build/intermediates/transforms/dexMerger/debug/2
+renamed.0=classes.dex
+file.0=/Users/zhenlin/Documents/Project/network/android-NetworkConnect/Application/build/intermediates/transforms/dexMerger/debug/2/classes.dex
